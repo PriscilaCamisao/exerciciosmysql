@@ -1,0 +1,1 @@
+select*from tb_pizzas where sabor like "%m%";

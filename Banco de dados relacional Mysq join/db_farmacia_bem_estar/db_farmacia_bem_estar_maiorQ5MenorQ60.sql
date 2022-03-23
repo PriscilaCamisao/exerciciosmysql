@@ -1,0 +1,1 @@
+select*from tb_produtos where valor > '5.00'<'60.00';
